@@ -1,0 +1,20 @@
+摄像头模块：
+      摄像头数据：PA0--PA7
+        SCCB总线：SCL:PJ6   SDA:PJ7
+      读FIFO控制：OE(读使能):PE4   RCLK(读时钟):PE5  RRST(读复位):PE6 (FIFO到单片机)
+      写FIFO控制：WEN(写使能):PE2  WRST:PE3 (摄像头到FIFO)
+      场同步信号：PT0
+
+测速模块：   
+      左轮编码器速度：PAD0--PAD7
+      右轮编码器速度：PB0 -- PB7
+      速度脉冲清零信号：PE7
+
+电机驱动模块：
+      左轮：PWM01：PP1     PS2
+      右轮：PWM45：PP5     PS3
+
+转向模块:
+      舵机: PWM23: PP3     
+
+

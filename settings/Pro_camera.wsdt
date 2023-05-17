@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>camera/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>303</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>728</ColumnWidth1><ColumnWidth2>308</ColumnWidth2><ColumnWidth3>77</ColumnWidth3></Build>
+    </Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-14100-5663</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>camera</ExpandedNode><ExpandedNode>camera/Control</ExpandedNode><ExpandedNode>camera/Drivers</ExpandedNode><ExpandedNode>camera/Drivers/PWM</ExpandedNode><ExpandedNode>camera/Drivers/SCI</ExpandedNode><ExpandedNode>camera/Drivers/Timer</ExpandedNode><ExpandedNode>camera/Drivers/Timer/IC</ExpandedNode><ExpandedNode>camera/Drivers/Timer/PIT</ExpandedNode><ExpandedNode>camera/Headers</ExpandedNode><ExpandedNode>camera/Headers/Delay</ExpandedNode><ExpandedNode>camera/Headers/IO</ExpandedNode><ExpandedNode>camera/Headers/PLL</ExpandedNode><ExpandedNode>camera/Headers/PWM</ExpandedNode><ExpandedNode>camera/Headers/SCI</ExpandedNode><ExpandedNode>camera/Headers/Timer</ExpandedNode><ExpandedNode>camera/Headers/Timer/IC</ExpandedNode><ExpandedNode>camera/Headers/Timer/PIT</ExpandedNode><ExpandedNode>camera/INF_PROCESS</ExpandedNode><ExpandedNode>camera/Image</ExpandedNode><ExpandedNode>camera/MCU</ExpandedNode><ExpandedNode>camera/OV7725</ExpandedNode><ExpandedNode>camera/Output</ExpandedNode><ExpandedNode>camera/Sources</ExpandedNode><ExpandedNode>camera/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-21600-26497</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\Drivers\Delay\Delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>624</SelStart2><SelEnd2>624</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\Sources\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>27</YPos2><SelStart2>1854</SelStart2><SelEnd2>1854</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\Headers\COMMON.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>96</SelStart2><SelEnd2>96</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\OV7725\bsp_fifo.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>9</YPos2><SelStart2>295</SelStart2><SelEnd2>295</SelEnd2></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\Headers\IO\IO.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>3</YPos2><SelStart2>774</SelStart2><SelEnd2>774</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\Drivers\IO\IO.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>254</SelStart2><SelEnd2>254</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\User\Users.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>79</SelStart2><SelEnd2>79</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Sources\OV7725\bsp_fifo.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>984</SelStart2><SelEnd2>984</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00EB9010><key>iaridepm.enu1</key></Toolbar-00EB9010></Sizes></Row0></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>575</Bottom><Right>394</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>125000</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>247500</sizeVertCX><sizeVertCY>705379</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>200</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>244499</sizeHorzCY><sizeVertCX>125000</sizeVertCX><sizeVertCY>244499</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

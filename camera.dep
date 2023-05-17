@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1259969432</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Sources\Control\Identify\Identify.c</file>
+      <file>$PROJ_DIR$\Sources\Control\Identify\Identify.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\camera.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\Identify.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Identify.o</file>
+      <file>$PROJ_DIR$\Sources\Drivers\Delay\Delay.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\camera.pbd</file>
+      <file>$PROJ_DIR$\Sources\Control\Motor\Motor.c</file>
+      <file>$PROJ_DIR$\Sources\INF_PROCESS\INF_PROCESS.c</file>
+      <file>$PROJ_DIR$\Sources\INF_PROCESS\INF_PROCESS.h</file>
+      <file>$PROJ_DIR$\Sources\Control\Motor\Motor.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Motor.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Motor.o</file>
+      <file>$PROJ_DIR$\Sources\Control\Speed\Speed.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Servo.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Servo.pbi</file>
+      <file>$PROJ_DIR$\Sources\Control\Servo\Servo.h</file>
+      <file>$PROJ_DIR$\Sources\Control\Servo\Servo.c</file>
+      <file>$PROJ_DIR$\Sources\Control\Speed\Speed.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Speed.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\Delay.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Speed.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Delay.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\IO.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\IO.o</file>
+      <file>$PROJ_DIR$\Sources\Drivers\IO\IO.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\PLL.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\PLL.o</file>
+      <file>$PROJ_DIR$\Sources\Drivers\PLL\PLL.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\SCI.pbi</file>
+      <file>$PROJ_DIR$\Sources\Drivers\PWM\PWM.c</file>
+      <file>$PROJ_DIR$\Sources\Drivers\SCI\SCI.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\PWM.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\IC.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\PIT.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\SCI.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\IC.o</file>
+      <file>$PROJ_DIR$\Sources\Drivers\Timer\IC\IC.c</file>
+      <file>$PROJ_DIR$\Sources\Headers\IO\IO.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\PIT.pbi</file>
+      <file>$PROJ_DIR$\Sources\Drivers\Timer\PIT\PIT.c</file>
+      <file>$PROJ_DIR$\Sources\Headers\Delay\Delay.h</file>
+      <file>$PROJ_DIR$\Sources\Headers\PWM\PWM.h</file>
+      <file>$PROJ_DIR$\Sources\Headers\PLL\PLL.h</file>
+      <file>$PROJ_DIR$\Sources\Headers\Timer\IC\IC.h</file>
+      <file>$PROJ_DIR$\Sources\Headers\SCI\SCI.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Image.pbi</file>
+      <file>$PROJ_DIR$\Sources\Headers\Timer\PIT\PIT.h</file>
+      <file>$PROJ_DIR$\Sources\Image\Image.c</file>
+      <file>$PROJ_DIR$\Sources\Image\Image.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Image.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\datapage.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Start12.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\INF_PROCESS.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\INF_PROCESS.pbi</file>
+      <file>$PROJ_DIR$\Sources\MCU\datapage.c</file>
+      <file>$PROJ_DIR$\Sources\MCU\Start12.c</file>
+      <file>$PROJ_DIR$\Sources\MCU\derivative.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Start12.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\datapage.o</file>
+      <file>$PROJ_DIR$\Sources\OV7725\bsp_fifo.h</file>
+      <file>$PROJ_DIR$\Sources\OV7725\bsp_fifo.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\Sources\OV7725\bsp_sccb.c</file>
+      <file>$PROJ_DIR$\Sources\OV7725\bsp_sccb.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_fifo.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_sccb.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_sccb.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\bsp_fifo.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Sources\User\Users.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Sources\Sources\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Users.o</file>
+      <file>$PROJ_DIR$\Sources\User\Users.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Users.pbi</file>
+      <file>$PROJ_DIR$\Sources\User\&#x8D44;&#x6e90;&#x5206;&#x914D;.txt</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$PROJ_DIR$\Sources\Headers\COMMON.h</file>
+      <file>$PROJ_DIR$\Sources\derivative.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Sources\Control\Identify\Identify.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\Delay\Delay.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Control\Motor\Motor.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\INF_PROCESS\INF_PROCESS.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 1 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 1 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Control\Speed\Speed.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Control\Servo\Servo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\IO\IO.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\PLL\PLL.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\PWM\PWM.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\SCI\SCI.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\Timer\IC\IC.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 45 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Drivers\Timer\PIT\PIT.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 48 87</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Image\Image.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 9 1 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 9 1 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\MCU\datapage.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\MCU\Start12.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\OV7725\bsp_fifo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 50 9 1 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 50 9 1 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\OV7725\bsp_sccb.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 61 50 9 1 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 61 50 9 1 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\User\Users.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81 87 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 81 87 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Sources\Sources\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 16 18</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 81 86 84 85 73 68 72 74 75 63 64 39 44 43 42 45 48 46 66 61 50 9 1 10 16 18</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\Delay\Delay.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Control\Motor\Motor.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Control\Speed\Speed.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Control\Servo\Servo.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\IO\IO.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\PLL\PLL.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\PWM\PWM.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\SCI\SCI.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\Timer\IC\IC.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Drivers\Timer\PIT\PIT.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Image\Image.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\MCU\datapage.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\MCU\Start12.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\OV7725\bsp_fifo.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\OV7725\bsp_sccb.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\User\Users.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\Sources\Sources\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
